@@ -1,4 +1,4 @@
-# teste-pratico-gestaoDS
+# Teste Prático GestaoDS
 Desenvolvimento do teste prático
 
 O projeto encontra-se em 3 partes principais nas quais:
